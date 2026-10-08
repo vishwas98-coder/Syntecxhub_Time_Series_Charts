@@ -1,0 +1,501 @@
+Date,Category,Sales
+2024-04-12,Books,177
+2024-12-14,Books,304
+2024-09-27,Home & Kitchen,324
+2024-04-16,Clothing,448
+2024-03-12,Home & Kitchen,496
+2024-07-07,Clothing,305
+2024-01-21,Clothing,163
+2024-04-12,Electronics,443
+2024-05-01,Home & Kitchen,38
+2024-08-02,Home & Kitchen,37
+2024-11-26,Clothing,276
+2024-03-28,Home & Kitchen,97
+2024-04-09,Clothing,390
+2024-12-25,Electronics,194
+2024-05-31,Electronics,213
+2024-05-10,Electronics,495
+2024-05-29,Electronics,132
+2024-11-04,Electronics,133
+2024-09-14,Clothing,241
+2024-12-09,Electronics,185
+2024-10-20,Clothing,454
+2024-07-10,Electronics,338
+2024-10-03,Clothing,151
+2024-06-09,Electronics,404
+2024-11-09,Electronics,283
+2024-01-22,Clothing,432
+2024-09-09,Clothing,74
+2024-08-23,Electronics,378
+2024-12-10,Books,150
+2024-02-18,Electronics,307
+2024-02-28,Clothing,285
+2024-06-18,Books,477
+2024-07-06,Clothing,486
+2024-09-27,Clothing,385
+2024-07-08,Clothing,181
+2024-06-23,Clothing,399
+2024-02-20,Home & Kitchen,106
+2024-12-29,Electronics,74
+2024-02-24,Electronics,495
+2024-08-31,Clothing,307
+2024-11-15,Home & Kitchen,197
+2024-05-10,Clothing,410
+2024-11-02,Electronics,368
+2024-05-14,Clothing,27
+2024-01-21,Home & Kitchen,340
+2024-11-24,Electronics,332
+2024-06-15,Electronics,266
+2024-09-30,Clothing,342
+2024-03-29,Clothing,491
+2024-11-11,Electronics,490
+2024-01-14,Electronics,462
+2024-08-29,Electronics,274
+2024-09-21,Electronics,347
+2024-12-11,Books,73
+2024-02-22,Home & Kitchen,268
+2024-12-05,Electronics,258
+2024-04-01,Books,248
+2024-09-20,Clothing,86
+2024-02-04,Clothing,70
+2024-07-24,Clothing,116
+2024-03-21,Electronics,111
+2024-02-19,Electronics,283
+2024-12-25,Clothing,437
+2024-01-02,Clothing,310
+2024-02-23,Electronics,115
+2024-04-15,Books,107
+2024-09-16,Home & Kitchen,97
+2024-11-05,Electronics,307
+2024-07-09,Books,139
+2024-08-05,Books,321
+2024-02-13,Books,419
+2024-06-10,Electronics,471
+2024-07-20,Home & Kitchen,184
+2024-09-26,Clothing,201
+2024-12-16,Home & Kitchen,488
+2024-10-30,Books,417
+2024-09-27,Clothing,242
+2024-08-02,Home & Kitchen,330
+2024-09-08,Home & Kitchen,451
+2024-07-08,Home & Kitchen,485
+2024-10-22,Clothing,26
+2024-07-31,Electronics,349
+2024-07-26,Electronics,282
+2024-08-24,Home & Kitchen,180
+2024-12-03,Electronics,170
+2024-02-22,Clothing,104
+2024-10-06,Electronics,166
+2024-08-04,Clothing,131
+2024-09-08,Home & Kitchen,400
+2024-07-06,Home & Kitchen,422
+2024-02-10,Electronics,55
+2024-06-05,Books,304
+2024-01-15,Clothing,207
+2024-10-27,Electronics,101
+2024-03-05,Home & Kitchen,21
+2024-12-10,Clothing,404
+2024-11-22,Electronics,322
+2024-01-09,Home & Kitchen,216
+2024-12-09,Electronics,423
+2024-05-08,Electronics,30
+2024-05-15,Clothing,253
+2024-03-03,Electronics,405
+2024-05-18,Clothing,214
+2024-03-21,Clothing,490
+2024-06-11,Home & Kitchen,138
+2024-10-15,Home & Kitchen,415
+2024-09-17,Home & Kitchen,39
+2024-08-18,Home & Kitchen,280
+2024-02-10,Clothing,312
+2024-01-28,Electronics,441
+2024-05-14,Clothing,275
+2024-07-19,Clothing,241
+2024-11-23,Electronics,412
+2024-09-24,Clothing,245
+2024-02-02,Clothing,72
+2024-02-17,Home & Kitchen,447
+2024-03-02,Books,374
+2024-08-03,Clothing,361
+2024-10-19,Electronics,383
+2024-04-08,Electronics,299
+2024-06-20,Books,100
+2024-12-25,Books,221
+2024-08-01,Electronics,177
+2024-02-04,Clothing,139
+2024-08-14,Electronics,78
+2024-04-10,Electronics,234
+2024-05-10,Electronics,147
+2024-09-13,Electronics,243
+2024-01-05,Books,228
+2024-08-05,Clothing,389
+2024-09-11,Electronics,134
+2024-12-24,Home & Kitchen,228
+2024-10-09,Books,33
+2024-07-25,Books,28
+2024-01-15,Electronics,59
+2024-12-11,Electronics,469
+2024-02-11,Electronics,256
+2024-06-27,Electronics,300
+2024-03-03,Electronics,378
+2024-12-17,Clothing,220
+2024-08-18,Electronics,265
+2024-08-28,Electronics,297
+2024-02-21,Electronics,254
+2024-04-05,Electronics,23
+2024-08-09,Electronics,173
+2024-08-18,Clothing,461
+2024-08-24,Electronics,48
+2024-05-22,Electronics,128
+2024-06-19,Clothing,117
+2024-01-29,Clothing,234
+2024-02-05,Electronics,312
+2024-01-13,Electronics,94
+2024-06-08,Electronics,345
+2024-11-22,Books,165
+2024-07-05,Clothing,147
+2024-08-30,Clothing,360
+2024-03-26,Books,61
+2024-10-10,Electronics,375
+2024-03-06,Home & Kitchen,60
+2024-06-18,Clothing,441
+2024-02-14,Electronics,53
+2024-03-02,Clothing,36
+2024-05-13,Home & Kitchen,184
+2024-10-10,Clothing,172
+2024-01-28,Books,397
+2024-04-17,Electronics,95
+2024-02-13,Home & Kitchen,106
+2024-12-05,Electronics,136
+2024-10-12,Home & Kitchen,381
+2024-11-26,Clothing,361
+2024-05-07,Electronics,488
+2024-12-13,Electronics,46
+2024-08-18,Electronics,332
+2024-07-08,Electronics,306
+2024-08-12,Electronics,153
+2024-10-09,Clothing,238
+2024-04-30,Clothing,187
+2024-04-25,Home & Kitchen,117
+2024-08-20,Books,287
+2024-09-15,Clothing,256
+2024-12-24,Home & Kitchen,328
+2024-07-16,Home & Kitchen,474
+2024-05-16,Electronics,413
+2024-11-13,Electronics,192
+2024-06-13,Electronics,420
+2024-08-12,Electronics,429
+2024-11-02,Electronics,488
+2024-08-21,Electronics,495
+2024-06-20,Home & Kitchen,209
+2024-05-31,Home & Kitchen,141
+2024-11-10,Electronics,65
+2024-06-08,Electronics,83
+2024-04-05,Electronics,149
+2024-08-20,Clothing,329
+2024-06-28,Clothing,382
+2024-04-22,Home & Kitchen,212
+2024-11-13,Electronics,326
+2024-02-21,Home & Kitchen,200
+2024-09-24,Books,311
+2024-10-21,Electronics,390
+2024-04-22,Home & Kitchen,301
+2024-04-10,Clothing,48
+2024-04-22,Clothing,168
+2024-03-21,Clothing,286
+2024-07-05,Home & Kitchen,315
+2024-04-22,Clothing,30
+2024-01-02,Home & Kitchen,183
+2024-05-09,Books,132
+2024-08-07,Clothing,206
+2024-02-23,Books,314
+2024-12-08,Clothing,251
+2024-08-11,Clothing,246
+2024-08-12,Clothing,329
+2024-05-05,Electronics,117
+2024-05-09,Home & Kitchen,74
+2024-02-22,Clothing,130
+2024-06-20,Clothing,171
+2024-08-05,Books,265
+2024-06-08,Electronics,425
+2024-07-16,Clothing,88
+2024-09-03,Clothing,331
+2024-11-19,Home & Kitchen,308
+2024-07-21,Clothing,269
+2024-07-02,Home & Kitchen,55
+2024-05-02,Home & Kitchen,258
+2024-09-11,Electronics,167
+2024-10-20,Electronics,486
+2024-10-06,Clothing,246
+2024-11-20,Electronics,263
+2024-04-07,Electronics,356
+2024-07-16,Clothing,465
+2024-08-27,Electronics,384
+2024-05-23,Clothing,220
+2024-04-06,Clothing,173
+2024-07-19,Clothing,469
+2024-05-03,Clothing,92
+2024-07-05,Clothing,220
+2024-11-21,Electronics,315
+2024-12-14,Clothing,36
+2024-09-15,Clothing,148
+2024-05-27,Home & Kitchen,236
+2024-09-08,Clothing,80
+2024-12-11,Books,446
+2024-05-26,Clothing,123
+2024-05-27,Electronics,61
+2024-12-17,Home & Kitchen,44
+2024-07-17,Electronics,58
+2024-11-03,Electronics,310
+2024-05-07,Electronics,150
+2024-02-08,Clothing,248
+2024-12-03,Clothing,127
+2024-12-25,Electronics,191
+2024-05-08,Home & Kitchen,454
+2024-09-23,Electronics,497
+2024-05-30,Electronics,121
+2024-10-24,Electronics,373
+2024-04-08,Electronics,31
+2024-09-19,Clothing,294
+2024-09-08,Clothing,120
+2024-05-23,Clothing,63
+2024-12-11,Electronics,462
+2024-04-21,Electronics,324
+2024-02-29,Electronics,464
+2024-01-02,Home & Kitchen,36
+2024-10-30,Electronics,349
+2024-09-10,Clothing,76
+2024-05-19,Books,330
+2024-02-06,Clothing,322
+2024-06-08,Books,31
+2024-01-09,Electronics,337
+2024-08-20,Home & Kitchen,99
+2024-04-08,Clothing,235
+2024-05-26,Home & Kitchen,358
+2024-10-30,Electronics,283
+2024-07-26,Electronics,498
+2024-05-10,Electronics,168
+2024-05-31,Clothing,100
+2024-02-23,Home & Kitchen,234
+2024-04-29,Home & Kitchen,393
+2024-06-09,Electronics,483
+2024-04-25,Home & Kitchen,217
+2024-03-15,Electronics,219
+2024-04-22,Electronics,44
+2024-04-13,Electronics,485
+2024-12-05,Home & Kitchen,108
+2024-09-10,Electronics,287
+2024-08-14,Clothing,162
+2024-04-21,Home & Kitchen,78
+2024-04-08,Electronics,429
+2024-06-01,Clothing,384
+2024-12-14,Electronics,45
+2024-12-31,Electronics,66
+2024-12-03,Clothing,307
+2024-07-12,Electronics,285
+2024-11-05,Clothing,35
+2024-06-11,Clothing,218
+2024-07-26,Clothing,420
+2024-06-17,Home & Kitchen,426
+2024-06-09,Clothing,301
+2024-03-08,Clothing,488
+2024-10-15,Clothing,105
+2024-10-03,Electronics,269
+2024-10-30,Electronics,410
+2024-05-14,Home & Kitchen,289
+2024-07-13,Clothing,354
+2024-05-07,Electronics,136
+2024-02-02,Clothing,26
+2024-06-24,Electronics,156
+2024-01-22,Books,390
+2024-08-25,Electronics,195
+2024-06-06,Electronics,347
+2024-02-07,Electronics,334
+2024-08-17,Clothing,234
+2024-12-30,Home & Kitchen,496
+2024-02-20,Electronics,101
+2024-09-20,Home & Kitchen,242
+2024-10-09,Electronics,497
+2024-01-27,Home & Kitchen,391
+2024-08-13,Electronics,442
+2024-10-03,Electronics,421
+2024-10-12,Clothing,462
+2024-04-06,Books,122
+2024-10-10,Home & Kitchen,292
+2024-11-12,Clothing,33
+2024-10-30,Books,178
+2024-05-26,Electronics,171
+2024-01-04,Books,127
+2024-02-04,Clothing,207
+2024-07-10,Home & Kitchen,320
+2024-02-18,Home & Kitchen,117
+2024-01-17,Home & Kitchen,150
+2024-06-20,Clothing,312
+2024-08-07,Clothing,190
+2024-06-06,Home & Kitchen,443
+2024-02-15,Electronics,493
+2024-01-06,Books,202
+2024-04-08,Home & Kitchen,490
+2024-08-20,Electronics,383
+2024-02-06,Home & Kitchen,58
+2024-10-06,Clothing,34
+2024-12-14,Home & Kitchen,395
+2024-10-28,Home & Kitchen,23
+2024-06-29,Electronics,368
+2024-04-04,Clothing,489
+2024-04-08,Books,428
+2024-07-06,Electronics,416
+2024-04-25,Clothing,229
+2024-07-09,Electronics,180
+2024-09-09,Clothing,35
+2024-06-09,Clothing,445
+2024-09-12,Clothing,127
+2024-11-18,Electronics,401
+2024-05-07,Clothing,469
+2024-01-18,Electronics,330
+2024-10-07,Electronics,246
+2024-08-10,Electronics,189
+2024-02-23,Electronics,53
+2024-02-27,Clothing,433
+2024-11-18,Clothing,270
+2024-12-25,Home & Kitchen,266
+2024-06-22,Electronics,288
+2024-10-06,Home & Kitchen,160
+2024-04-23,Home & Kitchen,293
+2024-10-14,Clothing,435
+2024-12-07,Books,115
+2024-05-30,Books,246
+2024-05-06,Electronics,398
+2024-06-03,Electronics,58
+2024-09-29,Books,321
+2024-04-13,Home & Kitchen,48
+2024-10-25,Electronics,465
+2024-09-02,Home & Kitchen,496
+2024-06-24,Home & Kitchen,337
+2024-02-08,Home & Kitchen,264
+2024-06-18,Home & Kitchen,255
+2024-09-03,Home & Kitchen,204
+2024-01-26,Electronics,291
+2024-12-20,Electronics,459
+2024-11-01,Clothing,255
+2024-01-13,Books,258
+2024-11-11,Electronics,396
+2024-11-08,Clothing,285
+2024-02-05,Clothing,433
+2024-06-21,Clothing,428
+2024-01-20,Home & Kitchen,378
+2024-11-16,Home & Kitchen,359
+2024-09-20,Clothing,408
+2024-05-21,Clothing,84
+2024-05-22,Clothing,497
+2024-04-01,Clothing,196
+2024-12-19,Electronics,22
+2024-11-17,Electronics,448
+2024-10-14,Clothing,161
+2024-08-02,Electronics,395
+2024-12-07,Electronics,177
+2024-02-20,Clothing,343
+2024-06-01,Clothing,165
+2024-07-04,Electronics,465
+2024-03-03,Home & Kitchen,312
+2024-07-08,Clothing,172
+2024-05-04,Electronics,451
+2024-05-29,Home & Kitchen,212
+2024-11-09,Clothing,456
+2024-02-27,Home & Kitchen,482
+2024-12-07,Clothing,92
+2024-10-31,Books,418
+2024-06-28,Home & Kitchen,324
+2024-06-18,Home & Kitchen,396
+2024-11-21,Home & Kitchen,363
+2024-09-27,Electronics,471
+2024-02-23,Electronics,159
+2024-04-10,Home & Kitchen,206
+2024-09-20,Clothing,312
+2024-02-22,Home & Kitchen,80
+2024-02-29,Electronics,446
+2024-04-17,Clothing,399
+2024-01-05,Electronics,217
+2024-04-12,Clothing,314
+2024-07-14,Clothing,459
+2024-09-18,Clothing,338
+2024-12-30,Clothing,321
+2024-12-15,Clothing,363
+2024-02-16,Clothing,30
+2024-12-20,Home & Kitchen,81
+2024-11-06,Electronics,352
+2024-11-03,Clothing,245
+2024-05-23,Clothing,172
+2024-09-25,Home & Kitchen,218
+2024-05-03,Clothing,71
+2024-04-15,Home & Kitchen,279
+2024-06-06,Books,78
+2024-05-26,Electronics,91
+2024-05-24,Electronics,167
+2024-04-29,Clothing,368
+2024-11-14,Electronics,82
+2024-10-01,Clothing,329
+2024-04-01,Books,392
+2024-02-27,Electronics,262
+2024-12-11,Electronics,385
+2024-08-16,Electronics,349
+2024-04-26,Home & Kitchen,126
+2024-11-13,Clothing,245
+2024-10-05,Electronics,332
+2024-05-06,Books,237
+2024-05-08,Home & Kitchen,444
+2024-02-27,Electronics,260
+2024-05-01,Clothing,278
+2024-01-01,Home & Kitchen,395
+2024-08-26,Electronics,281
+2024-10-16,Electronics,24
+2024-04-05,Electronics,280
+2024-05-05,Electronics,73
+2024-04-27,Home & Kitchen,66
+2024-02-17,Books,234
+2024-03-29,Electronics,196
+2024-08-24,Electronics,28
+2024-09-28,Electronics,118
+2024-07-07,Electronics,39
+2024-07-10,Home & Kitchen,397
+2024-03-09,Electronics,260
+2024-10-04,Electronics,80
+2024-12-14,Electronics,398
+2024-09-03,Clothing,438
+2024-03-16,Electronics,197
+2024-06-02,Home & Kitchen,357
+2024-05-23,Electronics,81
+2024-03-26,Home & Kitchen,164
+2024-07-03,Clothing,235
+2024-10-11,Electronics,22
+2024-08-07,Clothing,179
+2024-03-09,Home & Kitchen,246
+2024-02-16,Books,288
+2024-04-03,Clothing,139
+2024-08-25,Clothing,400
+2024-07-22,Books,108
+2024-08-05,Clothing,348
+2024-12-06,Electronics,87
+2024-02-08,Books,417
+2024-04-09,Electronics,376
+2024-10-15,Clothing,117
+2024-09-10,Electronics,286
+2024-08-09,Electronics,124
+2024-12-22,Electronics,459
+2024-01-23,Home & Kitchen,342
+2024-09-06,Electronics,142
+2024-01-10,Electronics,495
+2024-09-02,Electronics,48
+2024-11-20,Clothing,156
+2024-04-09,Books,214
+2024-10-16,Clothing,428
+2024-06-28,Clothing,245
+2024-08-10,Home & Kitchen,351
+2024-09-06,Clothing,189
+2024-05-26,Electronics,28
+2024-04-05,Electronics,482
+2024-09-13,Electronics,59
+2024-11-20,Electronics,44
+2024-01-04,Clothing,280
+2024-01-16,Home & Kitchen,414
+2024-10-06,Electronics,462
