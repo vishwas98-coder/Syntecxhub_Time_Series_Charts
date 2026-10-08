@@ -37,3 +37,5 @@ This repository contains the completed project for **Project 1: Time Series & Ca
    ```bash
    git clone [https://github.com/vishwas98-coder/Syntecxhub_Time_Series_Charts.git](https://github.com/vishwas98-coder/Syntecxhub_Time_Series_Charts.git)
    cd Syntecxhub_Time_Series_Charts
+git clone https://github.com/vishwas98-coder/Syntecxhub_Time_Series_Charts.git
+cd Syntecxhub_Time_Series_Charts
